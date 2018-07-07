@@ -10,4 +10,4 @@ This is project #2, Memory Game, for the udacity FEND course.
 2. Mike Wales - https://www.youtube.com/watch?v=_rUH-sEs68Y&feature=youtu.be
 
 ## Memory Game Demo:
-https://afendrich.github.io/Project-Portfolio/
+https://afendrich.github.io/Project-2---Memory-Game/
